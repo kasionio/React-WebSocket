@@ -2,7 +2,7 @@
 
 ## Then run React app
 ```
-cd test/  
+cd React-Websocket/  
 npm i  
 npm start   
 ```
